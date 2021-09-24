@@ -20,4 +20,4 @@ You survived a week in Commander Lambda's organization, and you even managed to 
 
 At least all this time spent running errands all over Commander Lambda's space station have given you a really good understanding of the station's layout. You'll need that when you're finally ready to destroy the LAMBCHOP and rescue the bunny workers.
 
-[Level 2](./challenges/02.gearing-up-for-destruction)
+[Level 2.1](./challenges/02.1.gearing-up-for-destruction)
